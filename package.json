@@ -1,0 +1,22 @@
+{
+  "name": "schoolvocaserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JinJoa/SchoolVocaServer.git"
+  },
+  "author": "jinjoa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JinJoa/SchoolVocaServer/issues"
+  },
+  "homepage": "https://github.com/JinJoa/SchoolVocaServer#readme",
+  "dependencies": {
+    "hapi": "^17.2.1"
+  }
+}
